@@ -1,1 +1,1 @@
-# MSDM5003
+# MSDM5003 Stochastic Processes and Applications
